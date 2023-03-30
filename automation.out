@@ -1,0 +1,136 @@
+2023-03-30 11:21:55 INFO  AutoZonePage:22 - Logging info: initializing the webDriver
+2023-03-30 11:22:17 INFO  AutoZonePage:34 - Logging info: Waiting for the element to be clickable
+2023-03-30 11:25:48 INFO  AutoZonePage:22 - Logging info: initializing the webDriver
+2023-03-30 11:25:51 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 11:28:59 INFO  AutoZonePage:22 - Logging info: initializing the webDriver
+2023-03-30 11:29:01 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 11:30:16 INFO  AutoZonePage:22 - Logging info: initializing the webDriver
+2023-03-30 11:30:18 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 11:30:18 INFO  TestBase:56 - Config Property File is loaded
+2023-03-30 11:30:40 INFO  AutoZonePage:22 - Logging info: initializing the webDriver
+2023-03-30 11:30:42 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 11:30:42 INFO  TestBase:56 - Config Property File is loaded
+2023-03-30 11:39:44 INFO  AutoZonePage:22 - Logging info: initializing the webDriver
+2023-03-30 11:40:00 INFO  AutoZonePage:22 - Logging info: initializing the webDriver
+2023-03-30 11:40:54 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 11:41:10 INFO  TestBase:57 - Config Property File is loaded
+2023-03-30 11:44:46 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 11:44:46 INFO  TestBase:57 - Config Property File is loaded
+2023-03-30 11:46:39 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 11:46:39 INFO  TestBase:59 - Config Property File is loaded
+2023-03-30 11:48:29 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 11:48:29 INFO  TestBase:59 - Config Property File is loaded
+2023-03-30 11:48:31 INFO  TestBase:144 - In the Test base class before navigationg ot url====
+2023-03-30 11:50:24 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 11:50:24 INFO  TestBase:58 - Config Property File is loaded
+2023-03-30 11:50:26 INFO  TestBase:143 - In the Test base class before navigationg ot url====
+2023-03-30 11:51:14 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 11:51:14 INFO  TestBase:58 - Config Property File is loaded
+2023-03-30 11:51:16 INFO  TestBase:143 - In the Test base class before navigationg ot url====
+2023-03-30 11:59:32 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 11:59:32 INFO  TestBase:59 - Config Property File is loaded
+2023-03-30 11:59:35 INFO  TestBase:144 - In the Test base class before navigationg ot url====
+2023-03-30 12:01:51 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:01:51 INFO  TestBase:59 - Config Property File is loaded
+2023-03-30 12:01:54 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:01:54 INFO  TestBase:144 - In the Test base class before navigationg ot url====
+2023-03-30 12:03:20 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:03:20 INFO  TestBase:61 - Config Property File is loaded
+2023-03-30 12:03:22 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:03:22 INFO  TestBase:146 - In the Test base class before navigationg ot url====
+2023-03-30 12:03:35 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:03:35 INFO  TestBase:61 - Config Property File is loaded
+2023-03-30 12:03:37 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:03:37 INFO  TestBase:146 - In the Test base class before navigationg ot url====
+2023-03-30 12:03:46 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:03:46 INFO  TestBase:61 - Config Property File is loaded
+2023-03-30 12:03:48 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:03:48 INFO  TestBase:146 - In the Test base class before navigationg ot url====
+2023-03-30 12:04:17 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:04:17 INFO  TestBase:61 - Config Property File is loaded
+2023-03-30 12:04:19 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:04:19 INFO  TestBase:146 - In the Test base class before navigationg ot url====
+2023-03-30 12:05:46 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:05:46 INFO  TestBase:61 - Config Property File is loaded
+2023-03-30 12:05:48 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:05:48 INFO  TestBase:146 - In the Test base class before navigationg ot url====
+2023-03-30 12:20:27 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:20:27 INFO  TestBase:60 - Config Property File is loaded
+2023-03-30 12:20:30 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:20:30 INFO  TestBase:146 - In the Test base class before navigationg ot url====
+2023-03-30 12:20:36 INFO  TestBase:60 - Config Property File is loaded
+2023-03-30 12:21:18 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:21:18 INFO  TestBase:60 - Config Property File is loaded
+2023-03-30 12:21:20 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:21:20 INFO  TestBase:146 - In the Test base class before navigationg ot url====
+2023-03-30 12:21:34 INFO  TestBase:60 - Config Property File is loaded
+2023-03-30 12:24:45 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:24:45 INFO  TestBase:60 - Config Property File is loaded
+2023-03-30 12:24:48 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:24:48 INFO  TestBase:146 - In the Test base class before navigationg ot url====
+2023-03-30 12:24:48 INFO  TestBase:60 - Config Property File is loaded
+2023-03-30 12:24:48 INFO  TestBase:148 - https://www.autozone.com/
+2023-03-30 12:27:13 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:27:13 INFO  TestBase:60 - Config Property File is loaded
+2023-03-30 12:27:15 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:27:15 INFO  TestBase:146 - In the Test base class before navigationg ot url====
+2023-03-30 12:27:15 INFO  TestBase:60 - Config Property File is loaded
+2023-03-30 12:27:15 INFO  TestBase:148 - https://www.autozone.com/
+2023-03-30 12:41:47 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:41:47 INFO  TestBase:61 - Config Property File is loaded
+2023-03-30 12:41:49 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:41:49 INFO  TestBase:147 - In the Test base class before navigationg ot url====
+2023-03-30 12:41:49 INFO  TestBase:61 - Config Property File is loaded
+2023-03-30 12:41:49 INFO  TestBase:149 - https://www.autozone.com/
+2023-03-30 12:44:34 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:44:34 INFO  TestBase:59 - Config Property File is loaded
+2023-03-30 12:44:36 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:44:36 INFO  TestBase:145 - In the Test base class before navigationg ot url====
+2023-03-30 12:44:36 INFO  TestBase:59 - Config Property File is loaded
+2023-03-30 12:44:36 INFO  TestBase:147 - https://www.autozone.com/
+2023-03-30 12:53:52 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 12:53:52 INFO  TestBase:59 - Config Property File is loaded
+2023-03-30 12:53:54 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 12:53:54 INFO  TestBase:145 - In the Test base class before navigationg ot url====
+2023-03-30 12:53:54 INFO  TestBase:59 - Config Property File is loaded
+2023-03-30 12:53:54 INFO  TestBase:147 - https://www.autozone.com/
+2023-03-30 13:45:53 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 13:45:53 INFO  TestBase:43 - Config Property File is loaded
+2023-03-30 13:45:55 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 13:45:55 INFO  TestBase:113 - In the Test base class before navigationg ot url====
+2023-03-30 13:45:55 INFO  TestBase:43 - Config Property File is loaded
+2023-03-30 13:45:55 INFO  TestBase:115 - https://www.autozone.com/
+2023-03-30 13:59:58 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 13:59:58 INFO  TestBase:43 - Config Property File is loaded
+2023-03-30 14:00:00 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 14:00:00 INFO  TestBase:113 - In the Test base class before navigationg ot url====
+2023-03-30 14:00:00 INFO  TestBase:43 - Config Property File is loaded
+2023-03-30 14:00:00 INFO  TestBase:115 - https://www.autozone.com/
+2023-03-30 14:07:33 INFO  TestBase:29 - Reports initalized----
+2023-03-30 14:07:33 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 14:07:33 INFO  TestBase:43 - Config Property File is loaded
+2023-03-30 14:07:35 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 14:07:35 INFO  TestBase:113 - In the Test base class before navigationg ot url====
+2023-03-30 14:07:35 INFO  TestBase:43 - Config Property File is loaded
+2023-03-30 14:07:35 INFO  TestBase:115 - https://www.autozone.com/
+2023-03-30 14:24:48 INFO  TestBase:29 - Reports initalized----
+2023-03-30 14:24:48 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 14:24:48 INFO  TestBase:43 - Config Property File is loaded
+2023-03-30 14:24:51 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 14:24:51 INFO  TestBase:113 - In the Test base class before navigationg ot url====
+2023-03-30 14:24:51 INFO  TestBase:43 - Config Property File is loaded
+2023-03-30 14:24:51 INFO  TestBase:115 - https://www.autozone.com/
+2023-03-30 14:27:26 INFO  TestBase:29 - Reports initalized----
+2023-03-30 14:28:06 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 14:28:06 INFO  TestBase:43 - Config Property File is loaded
+2023-03-30 14:28:29 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 14:28:35 INFO  TestBase:113 - In the Test base class before navigationg ot url====
+2023-03-30 14:28:35 INFO  TestBase:43 - Config Property File is loaded
+2023-03-30 14:28:35 INFO  TestBase:115 - https://www.autozone.com/
+2023-03-30 15:01:35 INFO  TestBase:29 - Reports initalized----
+2023-03-30 15:01:35 INFO  AutoZonePage:24 - Logging info: initializing the webDriver
+2023-03-30 15:01:35 INFO  TestBase:43 - Config Property File is loaded
+2023-03-30 15:01:37 INFO  AutoZonePage:36 - Logging info: Waiting for the element to be clickable
+2023-03-30 15:01:37 INFO  TestBase:113 - In the Test base class before navigationg ot url====
+2023-03-30 15:01:37 INFO  TestBase:43 - Config Property File is loaded
+2023-03-30 15:01:37 INFO  TestBase:115 - https://www.autozone.com/
